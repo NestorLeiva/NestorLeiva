@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nestor Leiva</h1>
-<h3 align="center">A passionate software development student from Costa Rica</h3>
+
 
 <div align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </img>
 </div>
 
 
-
-
+<h3 align="center">A passionate software development student from Costa Rica</h3>
 
 - 🌱 I’m currently learning **Java / Visual Basic.net**
 
