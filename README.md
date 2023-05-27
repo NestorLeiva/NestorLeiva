@@ -20,11 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nestorleiva&show_icons=true&locale=en&layout=compact" alt="nestorleiva" /></p>
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NestorLeiva&theme=dark&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
-
-
 <!--
 **NestorLeiva/NestorLeiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
