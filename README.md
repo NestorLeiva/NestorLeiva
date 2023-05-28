@@ -2,7 +2,6 @@
 <div align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </img>
 </div>
-
 <h1 align="center">Hola 👋, soy Néstor Leiva</h1>
 <h3 align="center">Soy un estudiante muy apasionado del desarrollo de software. De Cartago, Costa Rica</h3>
 
@@ -18,11 +17,13 @@
 -->
 
 - 🔭 Actualmente estoy Estudiando en:<br>
-**Colegio Universitario de Cartago**<br>
-- 🌱 Actualmente estoy aprendiendo estas tecnologias:<br> 
-**Java / Visual Baisc.NET / Html / Css3 / JavaScript**<br>
+**Colegio Universitario de Cartago**
+
+- 🌱 Actualmente estoy aprendiendo:<br> 
+**Java / Visual Baisc.NET / Html / Css3 / JavaScript**
+
 - ⚡ Hobbies:<br>
-**Me gusta el anime, y las Motocicletas**<br>
+**Me gusta el anime y las Motocicletas**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
