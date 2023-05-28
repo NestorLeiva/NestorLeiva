@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </img>
 </div>
 <h1 align="center">Hola 👋, soy Néstor Leiva</h1>
-<h3 align="center">Soy un estudiante muy apasionado del desarrollo de software. De Cartago, Costa Rica</h3>
+<h3 align="center">Soy un estudiante muy apasionado del desarrollo de software.
+ De Cartago, Costa Rica</h3>
 
 <!-- 
 - 🔭 Actualmente estoy trabajando en...
