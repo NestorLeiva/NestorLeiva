@@ -11,7 +11,7 @@
 <!-- 
 - 🔭 I’m currently working on **j**
 -->
-- 🌱 Actualmente estoy aprendiendo en la Universidad: **Java / Visual Baisc.NET / Html / Css3 / JavaScript**
+- 🌱 Actualmente estoy aprendiendo en la Universidad:<br> **Java / Visual Baisc.NET / Html / Css3 / JavaScript**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
