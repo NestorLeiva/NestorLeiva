@@ -18,7 +18,7 @@
 -->
 
 - 🔭 Actualmente estoy Estudiando en:<br>
-**Colegio Universitario de Cartago <br> y en  ONE de Oracle ** 
+**Colegio Universitario de Cartago <br> ONE de Oracle ** 
 
 - 🌱 Actualmente estoy aprendiendo:<br> 
 **Java / Visual Baisc.NET / Html / Css3 / JavaScript**
