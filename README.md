@@ -19,10 +19,8 @@
 - 📫 Contacta conmigo **nestorjoel2@gmail.com**
 -->
 
-
-
 - 🔭 Actualmente estoy Estudiando en:<br>
-*Colegio Universitario de Cartago <br> ONE de Oracle* 
+*Colegio Universitario de Cartago: Tecnologias de la Informacion<br> ONE de Oracle* 
 
 - 🌱 Actualmente estoy aprendiendo:<br> 
 **Java / Visual Baisc.NET / Html / Css3 / JavaScript**
