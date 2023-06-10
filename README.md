@@ -15,9 +15,11 @@
 - 📫 Cómo contactarme: ...
 - 😄 Pronombres: ...
 - ⚡ Dato curioso: ...
--->
 
 - 📫 Contacta conmigo **nestorjoel2@gmail.com**
+-->
+
+
 
 - 🔭 Actualmente estoy Estudiando en:<br>
 *Colegio Universitario de Cartago <br> ONE de Oracle* 
