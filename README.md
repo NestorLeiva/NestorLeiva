@@ -23,7 +23,7 @@
 *Colegio Universitario de Cartago: Tecnologias de la Informacion<br> ONE de Oracle* 
 
 - 🌱 Actualmente estoy aprendiendo:<br> 
-**Java / Visual Baisc.NET / Html / Css3 / JavaScript**
+**Java / C# / Html / Css3 / JavaScript**
 
 - ⚡ Hobbies:<br>
 **Me gusta el anime y las Motocicletas**
