@@ -22,7 +22,7 @@
 - 🔭 Actualmente estoy Estudiando en:<br>
 *Colegio Universitario de Cartago: Tecnologias de la Informacion<br> ONE de Oracle* 
 
-- 🌱 Actualmente estoy aprendiendo:<br> 
+- 🌱 Tengo Conocimiento:<br> 
 **Java / C# / Html / Css3 / JavaScript**
 
 - ⚡ Hobbies:<br>
