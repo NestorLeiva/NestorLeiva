@@ -7,7 +7,9 @@
  De Cartago, Costa Rica</h3>
 
 - 🔭 Actualmente estoy Estudiando en:<br>
-*Colegio Universitario de Cartago: Tecnologias de la Informacion<br> ONE de Oracle* 
+*Tecnologias de la Informacion<br>
+             Colegio Universitario de Cartago: <br>
+ ONE de Oracle* 
 
 - ⚡ Hobbies:<br>
 **Me gusta el anime y las Motocicletas**
